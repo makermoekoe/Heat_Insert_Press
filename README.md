@@ -1,6 +1,6 @@
 # Heat_Insert_Press
 
-<a href="https://www.instagram.com/p/CIODN2rq7Tt/?utm_source=ig_web_button_share_sheet"><img src="docs/press_1.jpg" width="300px"></a>
+<a href="https://www.instagram.com/p/CIODN2rq7Tt/?utm_source=ig_web_button_share_sheet"><img src="docs/press_1.JPG" width="300px"></a>
 
 (Click on the image for a small video.)
 
