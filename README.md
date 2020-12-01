@@ -6,7 +6,7 @@
 
 I recently build this simple construction to press threaded inserts into 3D printed parts with the help of an old soldering iron. I have replaced the original soldering iron tip with some self made insert tips out of stainless steel which are made on a lathe (unfortunately not by myself). Nevertheless it works with the original soldering tip as well.
 
-<img src="docs/tips_1.JPG" width="300px"></a>
+<img src="docs/tips_1.png" width="300px"></a>
 
 Don't forget the fan, because the soldering iron is not made to be used in vertical direction and the heat may destroy the plastic above the soldering iron tip.
 
